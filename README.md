@@ -1,17 +1,18 @@
 
-# Software Testing Overview
+# <span style="color: red;">Software Testing Overview.</span> Software Testing Overview
 
-## What is Software Testing?
+## <span style="color:blue;"> What is Software Testing? </span>
 Software testing is the process of verifying that the developed software/application fulfills all the client-required functionalities.
 
 There are two main approaches:
 
-1. **Manual Testing** – Verifying an application without using any automated tool/software.
-2. **Automation Testing** – Verifying an application/software with the help of automated tools/software.
+ <span style="color:grey;">1. **Manual Testing** – Verifying an application without using any automated tool/software.
+ </span>
+<span style="color:grey;"> 2. **Automation Testing** – Verifying an application/software with the help of automated tools/software. </span>
 
 ---
 
-## SDLC (Software Development Life Cycle)
+## <span style="color:blue;"> SDLC (Software Development Life Cycle) </span>
 
 Key roles:
 - **BA (Business Analyst)** – Service based
