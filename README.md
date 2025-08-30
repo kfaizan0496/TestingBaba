@@ -49,11 +49,11 @@ When any bug is already raised  incorporate  with another  issue so that  is cal
  1. **New**
  2. **Assign to Dev**
  3. **open**
- <br> 
- 
  &nbsp;  &nbsp; ***Deferred*** <br>
  &nbsp;  &nbsp; ***Duplicate*** <br>
  &nbsp;  &nbsp;  ***Rejected*** <br>
+<br>
+
 4.**Fixed** <br>
 5.**Retesting** <br>
 6.**Verified**  <br>
