@@ -48,7 +48,7 @@ When any bug is already raised  incorporate  with another  issue so that  is cal
 ## Bug Life Cycle 
  1. **New**
  2. **Assign to Dev**
- 3. **open**
+ 3. **open** <br>
  &nbsp;  &nbsp; ***Deferred*** <br>
  &nbsp;  &nbsp; ***Duplicate*** <br>
  &nbsp;  &nbsp;  ***Rejected*** <br>
