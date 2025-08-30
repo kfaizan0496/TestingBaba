@@ -37,6 +37,29 @@ Key roles:
 5. Defect Logging
 6. Test Cycle Closure
 
+### Deferred :-
+When any issue which is not impacting the major functionalities  of application so in that case 
+developer said we will fixed that into the next version.
+
+### Duplicate :-
+When any bug is already raised  incorporate  with another  issue so that  is called duplicate condition..
+
+
+## Bug Life Cycle 
+ 1. **New**
+ 2. **Assign to Dev**
+ 3. **open**
+        a.***Deferred***
+        b.***Duplicate***
+        c.***Rejected***
+4.**Fixed**
+5.**Retesting**
+6.**Verified**
+7.**Closed**    
+
+
+
+
 ---
 
 ## Test Plan Document Structure
