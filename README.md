@@ -51,9 +51,9 @@ When any bug is already raised  incorporate  with another  issue so that  is cal
  3. **open**
  <br>
 
- 1. ***Deferred*** 
- 2. ***Duplicate*** 
- 3. ***Rejected***
+ 1. ***Deferred*** <br>
+ 2. ***Duplicate*** <br>
+ 3. ***Rejected*** <br>
 4.**Fixed**
 5.**Retesting**
 6.**Verified**
