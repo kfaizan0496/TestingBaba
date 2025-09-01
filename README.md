@@ -45,7 +45,7 @@ developer said we will fixed that into the next version.
 When any bug is already raised  incorporate  with another  issue so that  is called duplicate condition..
 
 
-## Bug Life Cycle 
+## Bug/Defect Life Cycle 
  1. **New**
  2. **Assign to Dev**
  3. **open** <br>
@@ -83,4 +83,71 @@ When any bug is already raised  incorporate  with another  issue so that  is cal
 - To verify by entering a valid user and invalid password
 
 ---
-```
+
+
+---
+## Lecture 3
+
+### Bug
+- All the issues which is found during testing enviroment known as bug..
+
+### Defect
+- All the issues which is found over production enviroment known as defect.
+
+### Error
+- All the compile time issues are known as errors.
+
+
+
+## Bug Report
+
+- Project name -->XYZ
+- Summary --> user is not able to logged in.
+- Interface-->Login
+- Module --> Login
+- Enviroment -->Testing
+- Description -->
+   (A) Problem Statement:-User is not able to logged in with valid credentials.
+   (B)Steps to reduce-->Open the url > click on login button > Enter valid credentials > click on submit.
+
+- Labels/Watcher -->XYZ
+- Assignee-->Dev XYZ
+- Priority-->Highest/Low/Medium
+- BA-->XYZ
+- Click on Create Btn.
+## Test Case Documentation 
+
+![Test Case Documentation](<Screenshot 2025-09-01 164654.png>)
+
+## Jira
+Jira is a versatile project management and issue-tracking software developed by Atlassian that helps teams plan, track, and manage their work throughout the software development lifecycle. It supports various agile methodologies, such as Scrum and Kanban, offering features like customizable boards, roadmaps, and reports. While widely used by software development and IT teams for bug tracking and planning, Jira's flexibility allows other departments like marketing, design, and operations to use it for project management and workflow customization. 
+
+### Key Features and Uses
+1. **Agile Project Management:**
+- Jira provides the tools for agile frameworks, including Scrum and Kanban boards, to visualize and manage workflows. 
+2. **Bug and Issue Tracking:**
+- It offers robust features to track bugs, manage tasks, and resolve issues efficiently, serving as a centralized system for tracking project-related problems. 
+3. **Customizable Workflows:**
+- Teams can create custom workflows to align with their specific project needs and processes. 
+4. **Planning and Roadmaps:**
+- Jira allows teams to create roadmaps, set goals, track dependencies, and break down large projects into smaller, achievable steps. 
+5. **Reporting and Dashboards:**
+- It provides various reports and dashboards to give teams visibility into their work and enable data-driven decision-making. 
+6. **Integrations and Extensibility:**
+- Jira integrates with numerous other development and business tools, enhancing its functionality through a wide ecosystem of apps and add-ons. 
+
+### Who Uses Jira?
+- Software Development Teams: For planning, tracking, and releasing software. 
+- IT Teams: For managing IT projects and service requests through products like Jira Service Management. 
+Product Management Teams: To create product roadmaps and manage the product lifecycle. 
+- Marketing Teams: For planning and tracking campaigns. 
+- Other Business Functions: Including finance, human resources, design, and operations, leveraging Jira for general project and task management. 
+
+### BA--> Task (Epic) Need to Develop then e-commerce
+<!-- Epic and user story  is the jira's vocab  -->
+
+#### subtask (User Story)
+ - develop the login functionality
+ - develop the category pages
+ - develop the order flow 
+ - develop the payment methods
