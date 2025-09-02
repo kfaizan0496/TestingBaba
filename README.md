@@ -151,3 +151,56 @@ Product Management Teams: To create product roadmaps and manage the product life
  - develop the category pages
  - develop the order flow 
  - develop the payment methods
+
+
+## Agile
+- Agile is a methodology  which is used to make the continous itration between testing and development..
+
+## What are the frameworks in agile??
+- Scrum framework
+- Kanban framework
+- Extreme Programming (XP)
+
+
+## What is Sprint ??
+- some sets of UserStory (subTask) which needs to be completed  within  a set time duration.
+- Sprint duration will be 2 -4 weeks,also we can't extend the sprint time.
+- Sprint time duration is related to company norms e.g (some company have 2 weeks sprint duration or 4 weeks).
+- sprint time duration is not extended .
+
+
+
+Sprint like Groups
+
+eg....
+us===user Story
+
+US1   .
+US2     . Sprint 1
+US3   .
+ 
+      .
+US4     .  Sprint 2 
+US5   .
+
+
+
+US6  .
+US7   .
+US8    . Sprint 3
+US9  .
+
+
+### Spill Over 
+- All the User Story are delivered as per time  duration  except  one user story w/o impacting the deadline 
+is known as Spill over. 
+
+
+## What are the different ceremonies (Meetings) in Agile/Scrum ?
+1. **Sprint Planning** in this we will make the plan for the current sprint sprint that what are the user story should cover and what are the resources  required in this sprint.
+
+2. **Scrum/DSM Meeting(Daily Standup Meeting)** In this we had a discussion about the daily task what we have done and what we needs to be done for today.
+
+3. **Sprint Review** In this  we had a discussion about the current sprint that can we complete it within in time or not ? if we can't so how we overcome this situation.
+
+4. **Sprint retrospective/Conclusion** This will happen at the last in this we had discussion about the current sprint that what went wrong and what went good in this and if face any chalanges so how we can overcome those.
