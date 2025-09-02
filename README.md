@@ -144,7 +144,7 @@ Product Management Teams: To create product roadmaps and manage the product life
 - Other Business Functions: Including finance, human resources, design, and operations, leveraging Jira for general project and task management. 
 
 ### BA--> Task (Epic) Need to Develop then e-commerce
-<!-- Epic and user story  is the jira's vocab  -->
+- Epic and user story  is the jira's vocab 
 
 #### subtask (User Story)
  - develop the login functionality
@@ -155,6 +155,10 @@ Product Management Teams: To create product roadmaps and manage the product life
 
 ## Agile
 - Agile is a methodology  which is used to make the continous itration between testing and development..
+
+## FrameWork
+- A framework is a reusable structure of pre-written code, tools, and guidelines that provides a foundational blueprint for developing software applications, websites, and IT systems. 
+Frameworks simplify development by handling common tasks and enforcing best practices, allowing developers to focus on the unique functionalities of their project instead of repetitive, low-level coding. This leads to faster development, more organized code, and more scalable, maintainable applications.
 
 ## What are the frameworks in agile??
 - Scrum framework
@@ -172,25 +176,9 @@ Product Management Teams: To create product roadmaps and manage the product life
 
 Sprint like Groups
 
-eg....
-us===user Story
+eg.... 
 
-US1   .
-US2     . Sprint 1
-US3   .
- 
-      .
-US4     .  Sprint 2 
-US5   .
-
-
-
-US6  .
-US7   .
-US8    . Sprint 3
-US9  .
-
-
+![Sprint](<Screenshot 2025-09-02 164128.png>)
 ### Spill Over 
 - All the User Story are delivered as per time  duration  except  one user story w/o impacting the deadline 
 is known as Spill over. 
