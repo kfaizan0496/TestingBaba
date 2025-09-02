@@ -201,8 +201,8 @@ is known as Spill over.
 1. **Sprint backlog:-**Work which is remaining into the particular sprint known as sprint backlog.
 
 ## what is Burn Up and Burn Down
-1. **Burn Up:-**Work which has been completed shown as Burn Up chart.
-1. **Burn Down:-**.Work which has remaining to be completed shown as Burn Down chart.
+1. **Burn Up** Work which has been completed shown as Burn Up chart.
+1. **Burn Down** Work which has remaining to be completed shown as Burn Down chart.
 
 
 ## What is Velocity ??
