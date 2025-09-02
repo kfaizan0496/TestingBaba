@@ -192,3 +192,20 @@ is known as Spill over.
 3. **Sprint Review** In this  we had a discussion about the current sprint that can we complete it within in time or not ? if we can't so how we overcome this situation.
 
 4. **Sprint retrospective/Conclusion** This will happen at the last in this we had discussion about the current sprint that what went wrong and what went good in this and if face any chalanges so how we can overcome those.
+
+
+# Lec 6
+
+## What is Sprint and product backlog
+1. **Product backlog:-**Work which is remaining to be completed   in the product/application.    
+1. **Sprint backlog:-**Work which is remaining into the particular sprint known as sprint backlog.
+
+## what is Burn Up and Burn Down
+1. **Burn Up:-**Work which has been completed shown as Burn Up chart.
+1. **Burn Down:-**.Work which has remaining to be completed shown as Burn Down chart.
+
+
+## What is Velocity ??
+- the rate of  work has to be completed by Sprint is known as velocity.
+
+
