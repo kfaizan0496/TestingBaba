@@ -209,3 +209,26 @@ is known as Spill over.
 - the rate of  work has to be completed by Sprint is known as velocity.
 
 
+## WhiteBox Testing :--
+- WhiteB Box Testing Generally perform Developers but in rarely condition white box testing perform by testers who can have deep knowledge of Coding .
+- White box testing, also known as clear box, glass box, or open box testing, 
+ - it is a software testing method where the tester has access to the software's internal structure, design, and code. 
+ This allows for thorough examination of the system's logic, control flow, and data flow to identify errors, 
+ inefficiencies, security vulnerabilities, and dead code by testing the code from the "inside out"
+
+
+ **Types of White BOx Testing**
+ - 1. Path Testing
+ - 2. Loop Testing
+ - 3. Unit Testing :--  Unit Testing checks if each part or function of the application works correctly. It will check the application 
+                        meets design requirements during development.
+
+ - 4. Mutation Testing:-  It is a type of Software Testing that is performed to design new software tests and also evaluate the quality of already existing  
+                           software tests. Mutation testing is related to modification a program in small ways. 
+
+- 5. Integration Testing :- Integration Testing Examines how different parts of the application work together. After unit testing to make sure components 
+                            work  well both alone and together.
+
+- 6. Penetrating Testing :- Penetration testing, or pen testing, is like a practice cyber attack conducted on your computer systems to find and fix any weak
+                           spots before real attackers can exploit them.
+                           It focuses on web application security, where testers try to breach parts like APIs and servers to uncover vulnerabilities such as code injection risks from unfiltered inputs. 
