@@ -269,6 +269,17 @@ is known as Spill over.
 
 - 2. Functional Testing is a type of Software Testing in which the system is tested against the functional requirements and specifications. Functional testing
       ensures that the requirements or specifications are properly satisfied by the application.
+   
+
+   **Types of Functional Testing**
+
+   ![alt text](<Screenshot 2025-09-27 154914.png>)
+   
+  **Difference between Functional & Non-functional Testing**
+
+  ![alt text](<Screenshot 2025-09-27 154949.png>)
+  
+
 
  **2. Regression Testing**
  - 1. Regression Testing involves re-executing a previously created test suite to verify that recent code changes haven't caused new issues. This verifies that updates, bug fixes, or enhancements do not break the functionality of the application.
@@ -293,11 +304,27 @@ In other words, a new software update has no impact on the functionality of the 
  
 
  - 2. Objectives of Non-functional Testing
+
  ![alt text](objectives-of-non-functional-testing.webp)
  <br>
 
 
  - 3. Non-functional Testing Parameters
 
- 
+
  ![alt text](Nonfunctionalities.png)
+
+
+
+ ## GreyBox Testing
+- Gray Box Testing is a software testing technique that combines elements of the Black Box Testing technique and the White Box Testing technique. 
+  Gray box testing is also known as translucent testing or API testing. 
+
+**Objectives of Gray Box Testing:**
+
+- 1. To provide the combined advantages of both black box testing and white box testing.
+- 2. To combine the input of developers as well as testers.
+- 3. To improve overall product quality.
+- 4. To reduce the overhead of the long process of functional and non-functional testing.
+- 5. To provide enough free time to developers to fix defects.
+- 6. To test from the user's point of view rather than a designer's point of view.
