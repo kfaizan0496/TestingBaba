@@ -287,12 +287,17 @@ In other words, a new software update has no impact on the functionality of the 
  **1. Performance Testing**
 
  **2. Load Testing**
+
  **3. Security Testing**
+
  
 
  - 2. Objectives of Non-functional Testing
  ![alt text](objectives-of-non-functional-testing.webp)
+ <br>
 
 
  - 3. Non-functional Testing Parameters
+
+ 
  ![alt text](Nonfunctionalities.png)
