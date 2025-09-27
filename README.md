@@ -210,6 +210,7 @@ is known as Spill over.
 
 
 ## WhiteBox Testing :--
+- In this testing code is visible
 - WhiteB Box Testing Generally perform Developers but in rarely condition white box testing perform by testers who can have deep knowledge of Coding .
 - White box testing, also known as clear box, glass box, or open box testing, 
  - it is a software testing method where the tester has access to the software's internal structure, design, and code. 
@@ -232,3 +233,67 @@ is known as Spill over.
 - 6. Penetrating Testing :- Penetration testing, or pen testing, is like a practice cyber attack conducted on your computer systems to find and fix any weak
                            spots before real attackers can exploit them.
                            It focuses on web application security, where testers try to breach parts like APIs and servers to uncover vulnerabilities such as code injection risks from unfiltered inputs. 
+
+
+
+
+## BlackBox Testing :--
+- In this testing code is not visible
+- In this testing verify and Examine the Component of website like (Singup,Login Functionalities,checkout etc)
+
+
+-  Black box testing is a software testing method that assesses an application's functionality without any knowledge of its internal workings, code, or 
+   architecture.
+   
+-  Testers focus on the software's input and output, evaluating if it performs as expected from an end-user's perspective by validating its behavior against 
+   user requirements and 
+   
+   **Key Characterstics**
+   - 1. No internal knowledge needed
+   - 1. Focus on functionality
+   - 1. End-user perspective
+   - 1. Independent from developers
+   - 1. Behavioral testing
+
+   ![alt text](black-box-testing-1.webp)
+
+
+   ## Types of BlackBox Testing
+   ![alt text](Types-Of-Black-Box-Testing-1.webp)
+
+   **1. Functional Testing**
+   - 1. Functional Testing is defined as a Type of Software Testing that verifies that each function of the Software Application works in conformance with the 
+          requirements and specifications. This testing is not concerned with the source code of the application. Each functionality of the software application is tested by providing appropriate test input, expecting the output, and comparing the actual output with the expected output.
+ 
+          This testing focuses on checking the user interface, APIs, Database, Security, Client or Server Application, and functionality of the Application Under Test. Functional testing can be performed manually or through automation, depending on the needs of the project.
+
+- 2. Functional Testing is a type of Software Testing in which the system is tested against the functional requirements and specifications. Functional testing
+      ensures that the requirements or specifications are properly satisfied by the application.
+
+ **2. Regression Testing**
+ - 1. Regression Testing involves re-executing a previously created test suite to verify that recent code changes haven't caused new issues. This verifies that updates, bug fixes, or enhancements do not break the functionality of the application.
+
+  ![alt text](Regression-Testing_.webp)
+
+- 2.Regression Testing is like a Software Quality checkup after any changes are made. It involves running tests to make sure that everything still works as it should, even after updates or tweaks to the code. This ensures that the software remains reliable and functions properly, maintaining its integrity throughout its development lifecycle.
+
+Regression means the return of something and in the software field, it refers to the return of a bug. It ensures that the newly added code is compatible with the existing code.
+In other words, a new software update has no impact on the functionality of the software. This is carried out after a system maintenance operation and upgrades. 
+
+
+**3. Non-Functional Testing**
+- 1. Non-functional Testing is a type of software testing that is performed to verify the non-functional requirements of the application. It verifies whether the behavior of the system is as per the requirement or not.
+
+ **1. Performance Testing**
+ **1. Load Testing**
+ **1. Security Testing**
+ 
+
+
+ - 2. Objectives of Non-functional Testing
+ ![alt text](objectives-of-non-functional-testing.webp)
+
+
+
+ - 3. Non-functional Testing Parameters
+ ![alt text](Nonfunctionalities.png)
