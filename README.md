@@ -250,10 +250,10 @@ is known as Spill over.
    
    **Key Characterstics**
    - 1. No internal knowledge needed
-   - 1. Focus on functionality
-   - 1. End-user perspective
-   - 1. Independent from developers
-   - 1. Behavioral testing
+   - 2. Focus on functionality
+   - 3. End-user perspective
+   - 4. Independent from developers
+   - 5. Behavioral testing
 
    ![alt text](black-box-testing-1.webp)
 
@@ -282,17 +282,16 @@ In other words, a new software update has no impact on the functionality of the 
 
 
 **3. Non-Functional Testing**
-- 1. Non-functional Testing is a type of software testing that is performed to verify the non-functional requirements of the application. It verifies whether the behavior of the system is as per the requirement or not.
+- Non-functional Testing is a type of software testing that is performed to verify the non-functional requirements of the application. It verifies whether the behavior of the system is as per the requirement or not.
 
  **1. Performance Testing**
- **1. Load Testing**
- **1. Security Testing**
- 
 
+ **2. Load Testing**
+ **3. Security Testing**
+ 
 
  - 2. Objectives of Non-functional Testing
  ![alt text](objectives-of-non-functional-testing.webp)
-
 
 
  - 3. Non-functional Testing Parameters
